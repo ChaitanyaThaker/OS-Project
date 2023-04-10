@@ -1,6 +1,6 @@
 # OSLabProject
 A simulator that shows various deadlock and concurrency situations in Operating systems.
-The project was created by a team of 4 members:
+The project was created by a team of 5 members:
 1. Sahil Khadayate (github:  https://github.com/Sah314)
 2. Tarang Ghetia (github: https://github.com/tarang-ghetia )
 3. Ckewyn Chawda
